@@ -23,14 +23,6 @@
 # misc
 .DS_Store
 *.pem
-*.log
-*.swp
-*.swo
-*~
-
-# editors & IDEs
-.idea/
-.vscode/
 
 # debug
 npm-debug.log*
@@ -40,7 +32,6 @@ yarn-error.log*
 
 # env files (can opt-in for committing if needed)
 .env*
-*.local
 
 # vercel
 .vercel
