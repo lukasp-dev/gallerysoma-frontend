@@ -1,3 +1,3 @@
 export default function DaisyButton() {
-  return <button className="btn btn-primary">DaisyUI 버튼</button>;
+  return <button className="btn btn-primary">버튼</button>;
 }
