@@ -1,5 +1,4 @@
 # Gallery SOMA E-Commerce
-# Gallery SOMA E-Commerce
 <p>
   <img  width="50%" style="padding-right:10px;" alt="gallery SOMA logo" src="https://gallery-soma-assets.s3.ap-northeast-2.amazonaws.com/test1/horizontal_logo.webp" />
 </p>
