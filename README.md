@@ -4,7 +4,7 @@
 </p>
 
 * This project is created with ```create-react-app```
-* The website is live at [gallery soma](https://gallerysoma.co.kr)
+* The website is live at [gallery soma](https://gallerysoma.co.kr) (currently the backend server is under construction)
 * The backend server code is at [Kotlin backend](https://github.com/lukasp-dev/GallerySoma-API)
 
 ## Introduction
